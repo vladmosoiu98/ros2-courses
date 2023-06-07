@@ -1,2 +1,27 @@
 # ros2-courses
 Resources to start working with ROS2
+
+# Official documentation
+The official documentation for ROS2 Humble has a very good structure, but becomes understandable mostly when you already have some brief ideas about ROS. 
+Hence, I would recommend first some video tutorials to get some brief ideas before digging in the codes and the detailed explanation provided in the docs.
+Link: https://docs.ros.org/en/humble/index.html
+
+### Installation on Ubuntu 22.04
+Command line installation (make sure to installl the desktop version and the dev-tools)
+Link: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
+
+---
+
+# Video Tutorials
+Some of the greatest resources for ROS are the following channels:
+- Articulated Robotics : https://www.youtube.com/@ArticulatedRobotics
+- Robotics Back-End : https://www.youtube.com/@RoboticsBackEnd
+Those two go from the most basic concepts of ROS and into some nice details about the sensors or more complex parts, such as navigation and perception.
+
+---
+
+# Roadmap
+Once you get the ideas behind ROS (even as briefly as possible), this is just a reference, might as well try it any way you want:
+1. Nodes and topics - those are teh fundamentals of ROS, once you get to understand how they work individually and together, you already have the tools to start building
+2. Packages - the nodes are usually placed in them, plus they provide the modularity of ROS so it is an important aspect to understand
+3. URDF (Unified Robotics Description Format) - this is the structure that defines your robot, you can still go into programming with ROS without it, but at some point you will have to deal with it and its structure
