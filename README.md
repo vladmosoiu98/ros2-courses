@@ -17,6 +17,7 @@ Some of the greatest resources for ROS are the following channels:
 - Articulated Robotics : https://www.youtube.com/@ArticulatedRobotics
 - Robotics Back-End : https://www.youtube.com/@RoboticsBackEnd
 - Muhammad Luqman: https://www.youtube.com/@robotisim/videos
+
 Those channels go from the most basic concepts of ROS and into some nice details about the sensors or more complex parts, such as navigation and perception.
 
 ---
