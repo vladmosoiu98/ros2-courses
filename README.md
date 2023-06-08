@@ -33,11 +33,12 @@ Once you get the ideas behind ROS (even as briefly as possible), this is just a 
 
 ## Tips
 ### Sourcing
-Don't forget to SOURCE both the ROS distribution ("source /opt/ros/humble") and the install of your project ("source install/setup.bash")!!!
+Don't forget to SOURCE both the ROS distribution ("source /opt/ros/humble/setup.bash") and the install of your project ("source install/setup.bash")!!!
+
 For the first sourcing, its better if you add the command in the ~/.bashrc file (this way every time you open a terminal it automatically does it).
 That can be done through:
 ```
- echo "source /opt/ros/humble" >> ~/.bashrc
+ echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 ```
 ### ROS Domain ID
 At some point you will work on the same netwrok with multiple persons doing different things. 
@@ -45,3 +46,4 @@ This is quite far away from the beginning but its important. The ROS Domain ID i
 ```
 echo "export ROS_DOMAIN_ID=<your_domain_id>" >> ~/.bashrc
 ```
+For the domain id available please check google keep (make sure you are signed in with the agora account)
