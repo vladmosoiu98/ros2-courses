@@ -27,7 +27,9 @@ Once you get the ideas behind ROS (even as briefly as possible), this is just a 
 1. Nodes and topics - those are teh fundamentals of ROS, once you get to understand how they work individually and together, you already have the tools to start building
 2. Packages - the nodes are usually placed in them, plus they provide the modularity of ROS so it is an important aspect to understand
 3. colcon command - this is used to compile the packages (both Cpp and Python) and binds them based on the dependencies
-4. URDF (Unified Robotics Description Format) - this is the structure that defines your robot, you can still go into programming with ROS without it, but at some point you will have to deal with it and its structure
+4. TF (Transformations)
+5. URDF (Unified Robotics Description Format) - this is the structure that defines your robot, you can still go into programming with ROS without it, but at some point you will have to deal with it and its structure
+6. Nav2 stack
 
 ---
 
