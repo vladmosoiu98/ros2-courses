@@ -55,8 +55,8 @@ For the domain id available please check google keep (make sure you are signed i
 Documentation: https://navigation.ros.org/
 Git: https://github.com/ros-planning/navigation2
 
-Basic tutorial [short]: https://www.youtube.com/watch?v=5WbHezSdpNY
-Basic tutorial [shorter]: https://www.youtube.com/watch?v=jkoGkAd0GYk
-Basic tutorial [long]: https://www.youtube.com/watch?v=idQb2pB-h2Q
+- Basic tutorial [short]: https://www.youtube.com/watch?v=5WbHezSdpNY
+- Basic tutorial [shorter]: https://www.youtube.com/watch?v=jkoGkAd0GYk
+- Basic tutorial [long]: https://www.youtube.com/watch?v=idQb2pB-h2Q
 
-TF explanation: https://www.youtube.com/watch?v=QyvHhY4Y_Y8
+- TF explanation: https://www.youtube.com/watch?v=QyvHhY4Y_Y8
